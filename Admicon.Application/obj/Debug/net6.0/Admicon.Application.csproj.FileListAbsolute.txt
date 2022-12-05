@@ -1,0 +1,15 @@
+C:\DotNet\AdmiconApi\Admicon.Application\bin\Debug\net6.0\Admicon.Application.deps.json
+C:\DotNet\AdmiconApi\Admicon.Application\bin\Debug\net6.0\Admicon.Application.dll
+C:\DotNet\AdmiconApi\Admicon.Application\bin\Debug\net6.0\Admicon.Application.pdb
+C:\DotNet\AdmiconApi\Admicon.Application\bin\Debug\net6.0\Admicon.Domain.dll
+C:\DotNet\AdmiconApi\Admicon.Application\bin\Debug\net6.0\Admicon.Domain.pdb
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.csproj.AssemblyReference.cache
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.AssemblyInfoInputs.cache
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.AssemblyInfo.cs
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.csproj.CoreCompileInputs.cache
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.csproj.CopyComplete
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.dll
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\refint\Admicon.Application.dll
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\Admicon.Application.pdb
+C:\DotNet\AdmiconApi\Admicon.Application\obj\Debug\net6.0\ref\Admicon.Application.dll
